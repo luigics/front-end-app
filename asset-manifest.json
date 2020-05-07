@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/git@github.com:luigics/front-end-app.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/git@github.com:luigics/front-end-app.git/static/js/main.2d549c21.chunk.js",
-    "main.js.map": "/git@github.com:luigics/front-end-app.git/static/js/main.2d549c21.chunk.js.map",
-    "runtime-main.js": "/git@github.com:luigics/front-end-app.git/static/js/runtime-main.f3f2fc2b.js",
-    "runtime-main.js.map": "/git@github.com:luigics/front-end-app.git/static/js/runtime-main.f3f2fc2b.js.map",
-    "static/js/2.aec64466.chunk.js": "/git@github.com:luigics/front-end-app.git/static/js/2.aec64466.chunk.js",
-    "static/js/2.aec64466.chunk.js.map": "/git@github.com:luigics/front-end-app.git/static/js/2.aec64466.chunk.js.map",
-    "index.html": "/git@github.com:luigics/front-end-app.git/index.html",
-    "precache-manifest.1c133a141d78d8bb4d28275dbaadd4cb.js": "/git@github.com:luigics/front-end-app.git/precache-manifest.1c133a141d78d8bb4d28275dbaadd4cb.js",
-    "service-worker.js": "/git@github.com:luigics/front-end-app.git/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/git@github.com:luigics/front-end-app.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.aec64466.chunk.js.LICENSE.txt": "/git@github.com:luigics/front-end-app.git/static/js/2.aec64466.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/git@github.com:luigics/front-end-app.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/front-end-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/front-end-app/static/js/main.f56506e8.chunk.js",
+    "main.js.map": "/front-end-app/static/js/main.f56506e8.chunk.js.map",
+    "runtime-main.js": "/front-end-app/static/js/runtime-main.de6ae8d5.js",
+    "runtime-main.js.map": "/front-end-app/static/js/runtime-main.de6ae8d5.js.map",
+    "static/js/2.aec64466.chunk.js": "/front-end-app/static/js/2.aec64466.chunk.js",
+    "static/js/2.aec64466.chunk.js.map": "/front-end-app/static/js/2.aec64466.chunk.js.map",
+    "index.html": "/front-end-app/index.html",
+    "precache-manifest.a96e66fa0d452d6794e47727230dfd64.js": "/front-end-app/precache-manifest.a96e66fa0d452d6794e47727230dfd64.js",
+    "service-worker.js": "/front-end-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/front-end-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.aec64466.chunk.js.LICENSE.txt": "/front-end-app/static/js/2.aec64466.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/front-end-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3f2fc2b.js",
+    "static/js/runtime-main.de6ae8d5.js",
     "static/js/2.aec64466.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2d549c21.chunk.js"
+    "static/js/main.f56506e8.chunk.js"
   ]
 }
